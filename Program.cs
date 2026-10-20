@@ -4,6 +4,6 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 
-//DFKJHSD SDFGSDKH SKJGH   DSFS 
+//Comment here
 
 app.Run();
